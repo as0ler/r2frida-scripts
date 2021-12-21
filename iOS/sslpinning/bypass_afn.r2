@@ -1,0 +1,1 @@
+:di1 objc:AFSecurityPolicy.evaluateServerTrust:forDomain:$
